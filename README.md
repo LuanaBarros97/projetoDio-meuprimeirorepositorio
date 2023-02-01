@@ -1,5 +1,8 @@
-**Criando um novo repositório**🆕
+# Repositório do desafio de projeto sobre Git/GitHub 
 
+O objetivo deste repositório é reforçar meus conhecimentos em Git com um desafio de projeto totalmente prático onde passo por todas as etapas de criação, atualização e sincronização de um repositório no GitHub. Dessa forma, posso compartilhar minhas anotações e exercícios em meu próprio repositório. Assim criei o primeiro projeto do meu portifólio.
+
+# Criando, atualizando e sincronizando um repositório no GitHub:
 ### Passo 01: Acesse o GitHub e crie um novo repositório.
 
 Para criar um novo repositório basta clicar no menu "+" que fica no canto superior direito e selecionar **New Repository**.
