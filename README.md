@@ -47,4 +47,4 @@ Digite *git status* novamente para verificar se os arquivos já foram confirmado
 Digite: `git push origin main` no console e aperte enter.
 ***O push envia todos os commits locais para a nuvem (GitHub)***. 
 
-Pronto! Os seus arquivos foram atualizados e estarão la no GitHub. :information_desk_person: 
+Pronto! Os seus arquivos foram atualizados e estarão lá no GitHub. :information_desk_person: 
